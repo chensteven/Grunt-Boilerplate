@@ -1,0 +1,1 @@
+My Grunt Boilerplate that includes ugilfying Javascript files, compiling SASS to CSS and watch livereloading. It is intended for prototyping and developing simple front-end projects.
