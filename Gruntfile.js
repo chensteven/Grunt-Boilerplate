@@ -5,8 +5,8 @@ module.exports = function(grunt) {
     pkg: grunt.file.readJSON('package.json'),
     uglify: {
       build: {
-        src: ['input.css'],
-        dest: 'output.css'
+        src: ['.js'],
+        dest: '.js'
       }
     },
     sass: {
